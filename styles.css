@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    border-radius: 10px;
+}
